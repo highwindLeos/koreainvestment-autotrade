@@ -1,9 +1,9 @@
 #홈페이지에서 API서비스 신청시 받은 Appkey, Appsecret 값 설정
-APP_KEY: ""
-APP_SECRET: ""
+APP_KEY: "PS8e8LblIqanBmQA4D4mOMPyw9029zw42asr"
+APP_SECRET: "f77zku1B37jBEp2KoZGMKbPdIg64BQwKIQAsy5vIL9tNT80FGqJWN95k0s2nXkYK+w5a1YGCu1pqWkt3N3zcVzbzYsfkE67Zs8ZlnLiLjT+d70YHD26NqHXTS1Nsa6jbpxhJuWXr8F5TkTbgZ15g2quLLmLuLMh7+nqU3xxuZ72Rf01yuzE="
 
 #계좌번호 앞 8자리
-CANO: ""
+CANO: "63541223"
 #계좌번호 뒤 2자리
 ACNT_PRDT_CD: "01"
 
@@ -13,4 +13,4 @@ URL_BASE: "https://openapi.koreainvestment.com:9443"
 # URL_BASE: "https://openapivts.koreainvestment.com:29443"
 
 #디스코드 웹훅 URL
-DISCORD_WEBHOOK_URL: ""
+DISCORD_WEBHOOK_URL: "https://discordapp.com/api/webhooks/1005866164259401738/Fjvm7r8UFCUOT4Xztkp0uD1nlLb9nzXl7KBBkpDL6pkJP2I230iuEOBnscrNbHdVY5np"
